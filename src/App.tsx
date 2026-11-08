@@ -68,7 +68,7 @@ export default function App() {
           </button>
           <a
             className="github-link"
-            href="https://github.com/f0909172434/tokenscope"
+            href="https://github.com/Chih-Kai-Wang/tokenscope"
             target="_blank"
             rel="noreferrer"
           >
@@ -170,7 +170,7 @@ export default function App() {
           </p>
           <p>
             <a
-              href="https://github.com/f0909172434/tokenscope/blob/main/LICENSE"
+              href="https://github.com/Chih-Kai-Wang/tokenscope/blob/main/LICENSE"
               target="_blank"
               rel="noreferrer"
             >

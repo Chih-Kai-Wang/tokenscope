@@ -10,7 +10,7 @@ The importer accepts existing schema-version 1 exports, up to 1 MB:
 
 Stored numerical outputs are never accepted as computational evidence. Weights, probabilities, draws and word segmentation are recalculated; invalid input leaves the existing experiment unchanged. Unsupported schema versions, dimensions, non-finite numbers, out-of-range controls and altered BPE history are rejected. This is a replay format for these three educational labs, not an arbitrary tensor or tokenizer format.
 
-For a learning route, explore the attention and BPE controls, then continue to [MiniHarness's AI engineering curriculum](https://github.com/f0909172434/miniharness/tree/main/academy). Its [eight-step agent workshop](https://github.com/f0909172434/miniharness/tree/main/tutorial) can also be taken directly.
+For a learning route, explore the attention and BPE controls, then continue to [MiniHarness's AI engineering curriculum](https://github.com/Chih-Kai-Wang/miniharness/tree/main/academy). Its [eight-step agent workshop](https://github.com/Chih-Kai-Wang/miniharness/tree/main/tutorial) can also be taken directly.
 
 ## 繁體中文
 

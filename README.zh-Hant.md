@@ -4,7 +4,7 @@ TokenScope 是一張在瀏覽器裡運算的實驗桌：你改一個條件，就
 
 三個互動實驗分別對應因果注意力、token 取樣和 BPE 合併。介面有繁中與英文兩種語言，每個數值都能逐項檢查，也能匯出成 JSON。使用時不需要帳號，也不需要 API 金鑰。
 
-[開始實驗](https://f0909172434.github.io/tokenscope/?lang=zh-Hant) · [English](README.md) · [數學慣例](docs/MATH.md)
+[開始實驗](https://chih-kai-wang.github.io/tokenscope/?lang=zh-Hant) · [English](README.md) · [數學慣例](docs/MATH.md)
 
 ![TokenScope 注意力實驗桌](docs/screenshots/attention.png)
 
@@ -34,7 +34,7 @@ TokenScope 是一張在瀏覽器裡運算的實驗桌：你改一個條件，就
 需要 Node.js **22.12 以上**，Node 24 也可以使用。
 
 ```sh
-git clone https://github.com/f0909172434/tokenscope.git
+git clone https://github.com/Chih-Kai-Wang/tokenscope.git
 cd tokenscope
 npm ci
 npm run dev

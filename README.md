@@ -4,7 +4,7 @@ TokenScope is a small browser lab where you change one condition and watch the a
 
 It covers three mechanics: causal attention, token sampling, and byte-pair encoding (BPE). Every number on screen comes from synthetic examples that you can inspect and export as JSON. The lab runs entirely in your browser in English or Traditional Chinese, and it needs no account, no model API and no analytics.
 
-[Open the lab](https://f0909172434.github.io/tokenscope/?lang=en) · [繁體中文](README.zh-Hant.md) · [Mathematical conventions](docs/MATH.md)
+[Open the lab](https://chih-kai-wang.github.io/tokenscope/?lang=en) · [繁體中文](README.zh-Hant.md) · [Mathematical conventions](docs/MATH.md)
 
 ![TokenScope attention workbench](docs/screenshots/attention.png)
 
@@ -30,7 +30,7 @@ Each experiment ends with a short concept check. You can export the current inpu
 You need Node.js **22.12+**, and Node 24 also works.
 
 ```sh
-git clone https://github.com/f0909172434/tokenscope.git
+git clone https://github.com/Chih-Kai-Wang/tokenscope.git
 cd tokenscope
 npm ci
 npm run dev
